@@ -1,6 +1,6 @@
 # Rekomend: AI-Powered Product Recommendation System
 
-Welcome to **Rekomend**, your go-to AI-powered e-commerce assistant! Searchly is a cutting-edge product recommendation system designed to deliver highly personalized shopping experiences. Powered by **AI-driven algorithms**, **real-time data scraping**, and a **modern frontend**, Searchly bridges the gap between user intent and the perfect product match.
+Welcome to **Rekomend**, your go-to AI-powered e-commerce assistant! Rekomend is a cutting-edge product recommendation system designed to deliver highly personalized shopping experiences. Powered by **AI-driven algorithms**, **real-time data scraping**, and a **modern frontend**, Rekomend bridges the gap between user intent and the perfect product match.
 
 ---
 
@@ -81,8 +81,8 @@ Welcome to **Rekomend**, your go-to AI-powered e-commerce assistant! Searchly is
 ### Backend Setup:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SrikarVeluvali/Searchly
-   cd Searchly/server
+   git clone https://github.com/Richitha7/Rekomend
+   cd Rekomend/server
    ```
 
 2. Create a virtual environment and activate it:
@@ -114,7 +114,7 @@ Welcome to **Rekomend**, your go-to AI-powered e-commerce assistant! Searchly is
 ### Frontend Setup:
 1. Navigate to the client folder:
    ```bash
-   cd Searchly/client
+   cd Rekomend/client
    ```
 
 2. Install dependencies:
