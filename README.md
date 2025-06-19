@@ -1,24 +1,6 @@
-# Searchly: AI-Powered Product Recommendation System
+# Rekomend: AI-Powered Product Recommendation System
 
-Welcome to **Searchly**, your go-to AI-powered e-commerce assistant! Searchly is a cutting-edge product recommendation system designed to deliver highly personalized shopping experiences. Powered by **AI-driven algorithms**, **real-time data scraping**, and a **modern frontend**, Searchly bridges the gap between user intent and the perfect product match.
-
----
-
-## Table of Contents
-
-1. [Features](#features)
-2. [Project Structure](#project-structure)
-3. [Architecture Diagram](#architecture)
-4. [Tech Stack](#tech-stack)
-5. [Workflow Diagram](#workflow)
-6. [Setup Instructions](#setup-instructions)
-7. [Detailed Component Overview](#detailed-component-overview)
-    - [Backend](#backend)
-    - [Frontend](#frontend)
-8. [Usage](#usage)
-9. [API Endpoints](#api-endpoints)
-10. [Screenshots](#screenshots)
-11. [Contributing](#contributing)
+Welcome to **Rekomend**, your go-to AI-powered e-commerce assistant! Searchly is a cutting-edge product recommendation system designed to deliver highly personalized shopping experiences. Powered by **AI-driven algorithms**, **real-time data scraping**, and a **modern frontend**, Searchly bridges the gap between user intent and the perfect product match.
 
 ---
 
@@ -37,7 +19,7 @@ Welcome to **Searchly**, your go-to AI-powered e-commerce assistant! Searchly is
 ## Project Structure
 
 ```
-📁 Searchly
+📁 Rekomend
 ├── 📁 client (Frontend)
 │   ├── 📁 public
 │   ├── 📁 src
@@ -250,23 +232,6 @@ Here is a comprehensive list of all API endpoints in the provided code:
 
 - **`search_product(query)`** (Function): Helper function to scrape e-commerce websites (e.g., Amazon and Flipkart) for products based on a search query. This is not exposed as an endpoint but is used within `/recommend` and `/recommend_from_db`.
 
-
----
-
-## Screenshots
-
-### 1. Landing Page
-![image](https://github.com/user-attachments/assets/c5f0377b-6a58-4388-8bed-b93aedb76540)
-
-### 2. AI Chatbot
-![image](https://github.com/user-attachments/assets/5b5152a7-3009-4cf1-a6de-35ae47318c59)
-
-### 3. Product Recommendations
-![image](https://github.com/user-attachments/assets/4b7de88b-e6e1-46e1-9942-42c7b62e1a4a)
-
-### 4. Favorites Management
-![image](https://github.com/user-attachments/assets/10cc55b9-28f3-477c-9e37-b4e38d155530)
-![image](https://github.com/user-attachments/assets/cfa3670f-3bae-4d50-8c1f-f3ed0a36fd25)
 
 
 ---
